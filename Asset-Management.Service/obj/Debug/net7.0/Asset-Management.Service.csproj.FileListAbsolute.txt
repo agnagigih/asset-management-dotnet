@@ -36,3 +36,22 @@ D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Service\obj
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.pdb
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.genruntimeconfig.cache
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Service\obj\Debug\net7.0\ref\Asset-Management.Service.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.Service.deps.json
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.Service.runtimeconfig.json
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.Service.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.Service.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.Repository.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.ViewModel.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.Repository.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\bin\Debug\net7.0\Asset-Management.ViewModel.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.csproj.AssemblyReference.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.AssemblyInfoInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.AssemblyInfo.cs
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.csproj.CoreCompileInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.csproj.CopyComplete
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\refint\Asset-Management.Service.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\Asset-Management.Service.genruntimeconfig.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Service\obj\Debug\net7.0\ref\Asset-Management.Service.dll

@@ -20,7 +20,7 @@ namespace Asset_Management.Repository
 
         [Column("pic_id")]
         public long PicId { get; set; }
-        public AccountEntity Pic { get; set; }
+        public PicEntity Pic { get; set; }
 
         [Column("send_date")]
         public DateTime SendDate { get; set; }

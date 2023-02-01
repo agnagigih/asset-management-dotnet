@@ -8,6 +8,7 @@ namespace Asset_Management.Repository
         {
         }
         public DbSet<AccountEntity> AccountEntities => Set<AccountEntity>();
+        public DbSet<PicEntity> PicEntities => Set<PicEntity>();
         public DbSet<AssetEntity> AssetEntities => Set<AssetEntity>();
         public DbSet<ApprovalEntity> ApprovalEntities => Set<ApprovalEntity>();
         public DbSet<RequestAssetEntity> RequestAssetEntities => Set<RequestAssetEntity>();

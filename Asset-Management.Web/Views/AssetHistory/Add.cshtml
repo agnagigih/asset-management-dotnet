@@ -26,8 +26,10 @@
     </div>
 
     <div class="form-group">
-        <label asp-for="PicId">PIC ID</label>
-        <input asp-for="PicId" class="form-control"></input>
+        <label asp-for="PicId">PIC Name</label>
+        <select type="text" asp-for="PicId" class="form-control" asp-items="@ViewBag.Pic">
+            <option selected>Select Asset</option>
+        </select>
         <span asp-validation-for="PicId" class="text-danger"></span>
     </div>
 

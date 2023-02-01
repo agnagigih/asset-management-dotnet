@@ -3588,11 +3588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.Service\\Asset-Management.Service.csproj",
+      "projectUniqueName": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.Service\\Asset-Management.Service.csproj",
       "projectName": "Asset-Management.Service",
-      "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.Service\\Asset-Management.Service.csproj",
+      "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.Service\\Asset-Management.Service.csproj",
       "packagesPath": "C:\\Users\\10\\.nuget\\packages\\",
-      "outputPath": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.Service\\obj\\",
+      "outputPath": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3609,11 +3609,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.Repository\\Asset-Management.Repository.csproj": {
-              "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.Repository\\Asset-Management.Repository.csproj"
+            "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.Repository\\Asset-Management.Repository.csproj": {
+              "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.Repository\\Asset-Management.Repository.csproj"
             },
-            "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj": {
-              "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj"
+            "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj": {
+              "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj"
             }
           }
         }

@@ -21,7 +21,7 @@ namespace Asset_Management.Service
 
             var assetHistory = _context.AssetHistoryEntities.Find(entity.AssetHistoryId);
             var asset = _context.AssetEntities.Find(assetHistory.AssetId);
-            var pic = _context.AccountEntities.Find(assetHistory.PicId);
+            var pic = _context.PicEntities.Find(assetHistory.PicId);
 
             response.AssetName = asset.AssetName;
             response.AssetSpecification = asset.Specification;

@@ -32,3 +32,20 @@ D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Repository\
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.pdb
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.genruntimeconfig.cache
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Repository\obj\Debug\net7.0\ref\Asset-Management.Repository.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\bin\Debug\net7.0\Asset-Management.Repository.deps.json
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\bin\Debug\net7.0\Asset-Management.Repository.runtimeconfig.json
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\bin\Debug\net7.0\Asset-Management.Repository.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\bin\Debug\net7.0\Asset-Management.Repository.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\bin\Debug\net7.0\Asset-Management.ViewModel.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\bin\Debug\net7.0\Asset-Management.ViewModel.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.csproj.AssemblyReference.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.AssemblyInfoInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.AssemblyInfo.cs
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.csproj.CoreCompileInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.csproj.CopyComplete
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\refint\Asset-Management.Repository.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\Asset-Management.Repository.genruntimeconfig.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Repository\obj\Debug\net7.0\ref\Asset-Management.Repository.dll

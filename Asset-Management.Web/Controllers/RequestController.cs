@@ -34,7 +34,7 @@ namespace Asset_Management.Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult Save([Bind("PicId, Specification, RequestDate")] RequestAssetReq req)
+        public IActionResult Save([Bind("PicName, PicAddress, Specification, RequestDate")] RequestAssetModel req)
         {
             if (ModelState.IsValid)
             {

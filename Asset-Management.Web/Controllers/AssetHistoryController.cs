@@ -10,11 +10,13 @@ namespace Asset_Management.Web.Controllers
     {
         private readonly AssetHistoryService _assetHistoryService;
         private readonly AssetService _assetService;
+        private readonly PicService _picService;
 
         public AssetHistoryController(ApplicationDbContext context)
         {
             _assetHistoryService = new AssetHistoryService(context);
             _assetService = new AssetService(context);
+            _picService = new PicService(context);
         }
 
         [HttpGet]
@@ -28,6 +30,7 @@ namespace Asset_Management.Web.Controllers
         public IActionResult Add()
         {
             ViewBag.Asset = new SelectList(_assetService.GetAssets(), "Id", "AssetName");
+            ViewBag.Pic = new SelectList(_picService.GetPics(), "Id", "FullName");
             return View();
         }
 
@@ -35,6 +38,7 @@ namespace Asset_Management.Web.Controllers
         public IActionResult AddModal()
         {
             ViewBag.Asset = new SelectList(_assetService.GetAssets(), "Id", "AssetName");
+            ViewBag.Pic = new SelectList(_picService.GetPics(), "Id", "FullName");
             return PartialView("_Add");
         }
 

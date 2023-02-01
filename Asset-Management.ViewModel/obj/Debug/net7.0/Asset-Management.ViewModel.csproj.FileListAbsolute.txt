@@ -26,3 +26,17 @@ D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.ViewModel\o
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.pdb
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.genruntimeconfig.cache
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.ViewModel\obj\Debug\net7.0\ref\Asset-Management.ViewModel.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\bin\Debug\net7.0\Asset-Management.ViewModel.deps.json
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\bin\Debug\net7.0\Asset-Management.ViewModel.runtimeconfig.json
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\bin\Debug\net7.0\Asset-Management.ViewModel.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\bin\Debug\net7.0\Asset-Management.ViewModel.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.csproj.AssemblyReference.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.AssemblyInfoInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.AssemblyInfo.cs
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.csproj.CoreCompileInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\refint\Asset-Management.ViewModel.dll
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\Asset-Management.ViewModel.genruntimeconfig.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.ViewModel\obj\Debug\net7.0\ref\Asset-Management.ViewModel.dll

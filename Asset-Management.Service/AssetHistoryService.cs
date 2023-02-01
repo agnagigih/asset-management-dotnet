@@ -28,7 +28,7 @@ namespace Asset_Management.Service
             response.PurchaseYear = asset.PurchaseYear;
             response.SerialNumber = asset.SerialNumber;
 
-            var pic = _context.AccountEntities.Find(entity.PicId);
+            var pic = _context.PicEntities.Find(entity.PicId);
             response.PicName = pic.FullName;
 
             return response;
@@ -43,18 +43,15 @@ namespace Asset_Management.Service
             entity.PicId = req.PicId;
             entity.SendDate = req.SendDate;
 
-
             var asset = _context.AssetEntities.Find(req.AssetId);
             entity.Asset = asset;
 
-            var pic = _context.AccountEntities.Find(req.PicId);
+            var pic = _context.PicEntities.Find(req.PicId);
             entity.Pic = pic;
 
             _context.AssetHistoryEntities.Add(entity);
             _context.SaveChanges();
         }
-
-
 
         public List<AssetHistoryResponse> GetAssetHistory()
         {

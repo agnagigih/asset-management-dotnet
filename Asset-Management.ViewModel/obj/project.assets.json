@@ -3544,11 +3544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj",
+      "projectUniqueName": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj",
       "projectName": "Asset-Management.ViewModel",
-      "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj",
+      "projectPath": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.ViewModel\\Asset-Management.ViewModel.csproj",
       "packagesPath": "C:\\Users\\10\\.nuget\\packages\\",
-      "outputPath": "D:\\Buruh fancy\\dotnet\\proyek\\asset-management\\Asset-Management.ViewModel\\obj\\",
+      "outputPath": "D:\\Buruh fancy\\dotnet\\proyek\\New folder\\Asset-Management.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\10\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,9 +18,5 @@ namespace Asset_Management.Repository
 
         [Column("role")]
         public string Role { get; set; }
-
-        public List<RequestAssetEntity> RequestAssets { get; set; }
-
-        public List<AssetHistoryEntity> AssetHistories { get; set; }
     }
 }

@@ -10,9 +10,11 @@ namespace Asset_Management.Repository
         [Column("id")]
         public long Id { get; set; }
 
-        [Column("pic_id")]
-        public long PicId { get; set; }
-        public AccountEntity Pic { get; set; }
+        [Column("pic_name")]
+        public string PicName { get; set; }
+
+        [Column("pic_address")]
+        public string PicAddress { get; set; }
 
         [Column("specification")]
         public string Specification { get; set; }
