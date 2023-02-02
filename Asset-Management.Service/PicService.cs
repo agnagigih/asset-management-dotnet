@@ -11,10 +11,10 @@ namespace Asset_Management.Service
             _context = context;
         }
 
-        public List<PicEntity> GetPics() 
+        public List<PicEntity> GetPics()
         {
             var list = new List<PicEntity>();
-            foreach(var item in _context.PicEntities.ToList()) 
+            foreach (var item in _context.PicEntities.ToList())
             {
                 list.Add(item);
             }

@@ -29,7 +29,7 @@ namespace Asset_Management.Web.Controllers
         [HttpGet]
         public IActionResult Add()
         {
-            ViewBag.Asset = new SelectList(_assetService.GetAssets(), "Id", "AssetName");
+            ViewBag.Asset = new SelectList(_assetService.GetAssets(), "Id", "AssetNameWithSnSpec ");
             ViewBag.Pic = new SelectList(_picService.GetPics(), "Id", "FullName");
             return View();
         }
@@ -37,7 +37,7 @@ namespace Asset_Management.Web.Controllers
         [HttpGet]
         public IActionResult AddModal()
         {
-            ViewBag.Asset = new SelectList(_assetService.GetAssets(), "Id", "AssetName");
+            ViewBag.Asset = new SelectList(_assetService.GetAssets(), "Id", "AssetNameWithSnSpec");
             ViewBag.Pic = new SelectList(_picService.GetPics(), "Id", "FullName");
             return PartialView("_Add");
         }

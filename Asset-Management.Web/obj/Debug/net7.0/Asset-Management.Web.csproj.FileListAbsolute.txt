@@ -360,21 +360,13 @@ D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Web\obj\Deb
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.pdb
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.genruntimeconfig.cache
 D:\Buruh fancy\dotnet\proyek\rapid-asset-management\Asset-Management.Web\obj\Debug\net7.0\ref\Asset-Management.Web.dll
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.csproj.AssemblyReference.cache
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.GeneratedMSBuildEditorConfig.editorconfig
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.AssemblyInfoInputs.cache
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.AssemblyInfo.cs
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.csproj.CoreCompileInputs.cache
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.MvcApplicationPartsAssemblyInfo.cache
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.RazorAssemblyInfo.cache
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.RazorAssemblyInfo.cs
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.dll
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\appsettings.Development.json
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\appsettings.json
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.staticwebassets.runtime.json
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.exe
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.deps.json
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.runtimeconfig.json
-D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.dll
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Web.pdb
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Azure.Core.dll
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Azure.Identity.dll
@@ -625,6 +617,14 @@ D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\As
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Repository.pdb
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.Service.pdb
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\bin\Debug\net7.0\Asset-Management.ViewModel.pdb
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.csproj.AssemblyReference.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.AssemblyInfoInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.AssemblyInfo.cs
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.csproj.CoreCompileInputs.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.RazorAssemblyInfo.cache
+D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\Asset-Management.Web.RazorAssemblyInfo.cs
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\staticwebassets\msbuild.Asset-Management.Web.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Asset-Management.Web.props
 D:\Buruh fancy\dotnet\proyek\New folder\Asset-Management.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Asset-Management.Web.props

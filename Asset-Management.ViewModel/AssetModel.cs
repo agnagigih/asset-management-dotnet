@@ -7,5 +7,6 @@
         public string Specification { get; set; }
         public string SerialNumber { get; set; }
         public int PurchaseYear { get; set; }
+        public bool Used { get; set; }
     }
 }

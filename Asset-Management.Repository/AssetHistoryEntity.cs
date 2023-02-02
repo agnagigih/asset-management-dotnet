@@ -25,7 +25,8 @@ namespace Asset_Management.Repository
         [Column("send_date")]
         public DateTime SendDate { get; set; }
 
-        //public DateTime ReturnDate { get; set; }
+        [Column("return_date")]
+        public DateTime? ReturnDate { get; set; }
 
         public List<AuditEntity> Audit { get; set; }
     }

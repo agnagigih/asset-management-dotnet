@@ -35,7 +35,7 @@ namespace Asset_Management.Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult Save([Bind("AssetName, Specification, SerialNumber, PurchaseYear")] AssetModel req)
+        public IActionResult Save([Bind("AssetName, Specification, SerialNumber, PurchaseYear, Used")] AssetModel req)
         {
             if (ModelState.IsValid)
             {

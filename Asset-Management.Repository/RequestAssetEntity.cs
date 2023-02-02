@@ -10,6 +10,9 @@ namespace Asset_Management.Repository
         [Column("id")]
         public long Id { get; set; }
 
+        [Column("pic_id")]
+        public long? PicId { get; set; }
+
         [Column("pic_name")]
         public string PicName { get; set; }
 

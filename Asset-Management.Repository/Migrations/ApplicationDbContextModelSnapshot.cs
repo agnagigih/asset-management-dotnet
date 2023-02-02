@@ -113,6 +113,10 @@ namespace AssetManagement.Repository.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("specification");
 
+                    b.Property<bool>("Used")
+                        .HasColumnType("bit")
+                        .HasColumnName("available");
+
                     b.HasKey("Id");
 
                     b.ToTable("asset");
@@ -139,6 +143,10 @@ namespace AssetManagement.Repository.Migrations
                     b.Property<long>("PicId")
                         .HasColumnType("bigint")
                         .HasColumnName("pic_id");
+
+                    b.Property<DateTime?>("ReturnDate")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("return_date");
 
                     b.Property<DateTime>("SendDate")
                         .HasColumnType("datetime2")
@@ -248,6 +256,10 @@ namespace AssetManagement.Repository.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("pic_address");
+
+                    b.Property<long?>("PicId")
+                        .HasColumnType("bigint")
+                        .HasColumnName("pic_id");
 
                     b.Property<string>("PicName")
                         .IsRequired()

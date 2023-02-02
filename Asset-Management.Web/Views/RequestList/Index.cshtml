@@ -17,7 +17,8 @@
             <th>PIC Address</th>
             <th>Specification</th>
             <th>Date</th>
-            <th>Status</th
+            <th>Status</th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -30,6 +31,9 @@
                 <td>@item.Specification</td>
                 <td>@item.RequestDate</td>
                 <td>@item.Status</td>
+                <td>
+                    <a asp-action="ChooseAsset" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Choose Asset</a>
+                </td>
             </tr>
         }
     </tbody>

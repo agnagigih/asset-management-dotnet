@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace AssetManagement.Repository.Migrations
 {
     /// <inheritdoc />
-    public partial class UpdatedDB : Migration
+    public partial class FullDB : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -35,7 +35,8 @@ namespace AssetManagement.Repository.Migrations
                     assetname = table.Column<string>(name: "asset_name", type: "nvarchar(max)", nullable: false),
                     specification = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     serialnumber = table.Column<string>(name: "serial_number", type: "nvarchar(max)", nullable: false),
-                    purchaseyear = table.Column<int>(name: "purchase_year", type: "int", nullable: false)
+                    purchaseyear = table.Column<int>(name: "purchase_year", type: "int", nullable: false),
+                    available = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -62,6 +63,7 @@ namespace AssetManagement.Repository.Migrations
                 {
                     id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    picid = table.Column<long>(name: "pic_id", type: "bigint", nullable: true),
                     picname = table.Column<string>(name: "pic_name", type: "nvarchar(max)", nullable: false),
                     picaddress = table.Column<string>(name: "pic_address", type: "nvarchar(max)", nullable: false),
                     specification = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -81,7 +83,8 @@ namespace AssetManagement.Repository.Migrations
                     assetid = table.Column<long>(name: "asset_id", type: "bigint", nullable: false),
                     location = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     picid = table.Column<long>(name: "pic_id", type: "bigint", nullable: false),
-                    senddate = table.Column<DateTime>(name: "send_date", type: "datetime2", nullable: false)
+                    senddate = table.Column<DateTime>(name: "send_date", type: "datetime2", nullable: false),
+                    returndate = table.Column<DateTime>(name: "return_date", type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {

@@ -23,18 +23,19 @@ namespace Asset_Management.Repository
         [Column("purchase_year")]
         public int PurchaseYear { get; set; }
 
-        // public bool Available { get; set; }
+        [Column("available")]
+        public bool Used { get; set; }
 
         public List<AssetHistoryEntity> AssetHistory { get; set; }
 
         public AssetEntity() { }
         public AssetEntity(AssetModel model)
         {
-            this.Id = model.Id;
-            this.AssetName = model.AssetName;
-            this.Specification = model.Specification;
-            this.SerialNumber = model.SerialNumber;
-            this.PurchaseYear = model.PurchaseYear;
+            Id = model.Id;
+            AssetName = model.AssetName;
+            Specification = model.Specification;
+            SerialNumber = model.SerialNumber;
+            PurchaseYear = model.PurchaseYear;
         }
     }
 }

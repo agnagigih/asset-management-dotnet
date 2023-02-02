@@ -98,7 +98,8 @@ namespace Asset_Management.Service
         public List<RequestListResponse> GetRequestList()
         {
             var result = new List<RequestListResponse>();
-            foreach (RequestAssetEntity requestAssetEntity in _context.RequestAssetEntities.ToList())
+            var list = _context.RequestAssetEntities.Where(x => x.Approval.Count == 2).ToList();
+            foreach (RequestAssetEntity requestAssetEntity in list)
             {
                 result.Add(EntityToListResponse(requestAssetEntity));
             }
@@ -158,6 +159,11 @@ namespace Asset_Management.Service
             picEntity.Address = entity.PicAddress;
             _context.PicEntities.Add(picEntity);
             _context.SaveChanges();
+
+            // edit request asset
+            entity.PicId = picEntity.Id;
+            _context.RequestAssetEntities.Update(entity);
+            _context.SaveChanges();
         }
 
         public void SaveRejection(ApprovalReq req)
@@ -172,6 +178,27 @@ namespace Asset_Management.Service
 
             _context.ApprovalEntities.Add(approval);
             _context.SaveChanges();
+        }
+
+        public AssetHistoryReq ChooseAsset(long? id)
+        {
+            var history = new AssetHistoryReq();
+            RequestAssetEntity entity = _context.RequestAssetEntities.Find(id);
+            // create approval
+            ApprovalEntity approval = new ApprovalEntity();
+            approval.RequestAsset = entity;
+            approval.RequestAssetId = entity.Id;
+            approval.Reason = "";
+            approval.Status = "Sent";
+            approval.Date = DateTime.Now;
+            _context.ApprovalEntities.Add(approval);
+            _context.SaveChanges();
+
+            // create asset history form
+            var pic = _context.PicEntities.Find(entity.PicId);
+            history.PicId = pic.Id;
+
+            return history;
         }
     }
 }

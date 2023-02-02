@@ -51,6 +51,10 @@ namespace Asset_Management.Service
 
             _context.AssetHistoryEntities.Add(entity);
             _context.SaveChanges();
+
+            asset.Used = true;
+            _context.AssetEntities.Update(asset);
+            _context.SaveChanges();
         }
 
         public List<AssetHistoryResponse> GetAssetHistory()
